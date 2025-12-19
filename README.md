@@ -64,13 +64,21 @@
 
 ---
 
-### ❌ Banned RAT Comparison
+### ❌ Banned RAT List
 
 <div align="center">
 
-| Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Stability | Other Features | Overall |
-|------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|-----------|----------------|---------|
-| **???** | C# | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | 🔴 45/71 | 4/5 | Process Manager, Registry Editor, UAC Bypass | ⭐⭐⭐⭐ |
+| Name | Reason for Ban |
+|------|----------------|
+| **AsyncRAT** | High detection rate, outdated architecture |
+| **Quasar** | Security vulnerabilities, poor encryption |
+| **NjRAT** | Obsolete code, high detection rate |
+| **Xeno RAT** | Unstable, malicious features |
+| **Venom RAT** | Contains ransomware modules |
+| **DcRAT** | Poor code quality |
+| **Lime RAT** | Limited features, high detection |
+| **Orcus RAT** | Discontinued development |
+| **Warzone RAT** | Commercial malware |
 
 </div>
 
@@ -88,13 +96,21 @@
 
 ---
 
-### ❌ Banned Stealer Comparison
+### ❌ Banned Stealer List
 
 <div align="center">
 
-| Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Stability | Other Features | Overall |
-|------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|-----------|----------------|---------|
-| **???** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 52/71 | 3/5 | FTP Clients, VPN Credentials | ⭐⭐⭐⭐ |
+| Name | Reason for Ban |
+|------|----------------|
+| **RedLine** | High detection rate, widely detected |
+| **Vidar** | Malicious intent, poor security |
+| **Raccoon** | Outdated methods, high detection |
+| **AZORult** | Legacy code, security issues |
+| **Lumma** | Unstable, detection issues |
+| **Meta Stealer** | Poor implementation |
+| **WhiteSnake** | Malicious obfuscation techniques |
+| **Phemedrone** | Limited features, outdated |
+| **StormKitty** | Basic functionality, high detection |
 
 </div>
 
