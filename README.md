@@ -32,15 +32,11 @@
 ---
 ## 📚 Supported Languages
 
-<div align="center">
-
 ### Supported Languague
 🦀 Rust • 💚 C# • ⚡ C/C++ • 🐹 Go • 🐍 Python • 📜 JavaScript
 
 ### Banned Languague (Not In UMC Can try to Apply) 
 🐍 Python •  ☕ Java • 💎 Ruby • 🐘 PHP • 🔷 PowerShell • 🐚 Bash
-
-</div>
 
 ---
 
@@ -68,9 +64,7 @@
 |------|----------------|
 | **Nova Shadow** | Not a scam (Temp Banned For Not Paying their staff) |
 
-
-</div>
-
+---
 
 ## 🎓 Educational Use Cases
 
@@ -134,8 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐛 Issues: [GitHub Issues](https://github.com/MidasRX)
 
 ---
-
-<div align="center">
 
 ### ⭐ Star us on GitHub!
 
