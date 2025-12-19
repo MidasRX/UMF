@@ -56,9 +56,9 @@
 
 <div align="center">
 
-| Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Other Features | Overall |
-|------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|----------------|---------|
-| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ✅  | ❌ | ✅  | ❌ | ✅ | ❌ | ✅ | ✅ | 🟢 0/71 | No Other Feature | ⭐⭐⭐⭐ |
+| Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Stability | Other Features | Overall |
+|------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|-----------|----------------|---------|
+| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ✅  | ❌ | ✅  | ❌ | ✅ | ❌ | ✅ | ✅ | 🟢 0/71 | 5/5 | No Other Feature | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -68,9 +68,9 @@
 
 <div align="center">
 
-| Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Other Features | Overall |
-|------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|----------------|---------|
-| **AsyncRAT** | C# | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | 🔴 45/71 | Process Manager, Registry Editor, UAC Bypass | ⭐⭐⭐⭐ |
+| Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Stability | Other Features | Overall |
+|------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|-----------|----------------|---------|
+| **???** | C# | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | 🔴 45/71 | 4/5 | Process Manager, Registry Editor, UAC Bypass | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -80,9 +80,9 @@
 
 <div align="center">
 
-| Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Other Features | Overall |
-|------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|----------------|---------|
-| **UMF Stealer** | Multi | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🟢 0/71 | Plugin Modules, Extensible, Multi-Lang | ⭐⭐⭐⭐⭐ |
+| Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Stability | Other Features | Overall |
+|------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|-----------|----------------|---------||
+| **???** | Multi | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🟢 0/71 | 5/5 | Plugin Modules, Extensible, Multi-Lang | ⭐⭐⭐⭐⭐ |
 
 </div>
 
@@ -92,9 +92,9 @@
 
 <div align="center">
 
-| Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Other Features | Overall |
-|------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|----------------|---------|
-| **RedLine** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 52/71 | FTP Clients, VPN Credentials | ⭐⭐⭐⭐ |
+| Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Stability | Other Features | Overall |
+|------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|-----------|----------------|---------|
+| **???** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 52/71 | 3/5 | FTP Clients, VPN Credentials | ⭐⭐⭐⭐ |
 
 </div>
 
