@@ -134,10 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- 📧 Email: security@umf-framework.dev
-- 💬 Discord: [Join our server](https://discord.gg/umf)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/umf/issues)
-- 📚 Docs: [Documentation](https://docs.umf-framework.dev)
+- 💬 Discord: [Join our server](https://discord.gg/)
+- 🐛 Issues: [GitHub Issues](https://github.com/MidasRX)
 
 ---
 
