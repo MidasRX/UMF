@@ -58,7 +58,7 @@
 
 | Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Other Features | Overall |
 |------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|----------------|---------|
-| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | 🟢 0/71 | No Other Feature | ⭐⭐⭐⭐ |
+| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ✅  | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | 🟢 0/71 | No Other Feature | ⭐⭐⭐⭐ |
 
 </div>
 
