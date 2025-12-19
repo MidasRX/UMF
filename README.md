@@ -58,7 +58,7 @@
 
 | Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Other Features | Overall |
 |------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|----------------|---------|
-| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | 🟢 0/71 | No Other Feature | ⭐⭐⭐⭐⭐ |
+| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | 🟢 0/71 | No Other Feature | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -95,14 +95,6 @@
 | Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Other Features | Overall |
 |------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|----------------|---------|
 | **RedLine** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 52/71 | FTP Clients, VPN Credentials | ⭐⭐⭐⭐ |
-| **Vidar** | C++ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 48/71 | Telegram, 2FA Codes | ⭐⭐⭐⭐ |
-| **Raccoon** | C++ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 45/71 | Email Clients, Steam | ⭐⭐⭐⭐ |
-| **AZORult** | Delphi | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | 🔴 56/71 | Loader Capability | ⭐⭐⭐ |
-| **Lumma** | C | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | 🟡 31/71 | Multi-Browser, Gaming | ⭐⭐⭐⭐⭐ |
-| **Meta Stealer** | Go | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🟡 28/71 | Cloud Storage Tokens | ⭐⭐⭐⭐ |
-| **WhiteSnake** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | 🟡 35/71 | Anti-Analysis, Obfuscation | ⭐⭐⭐⭐ |
-| **Phemedrone** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🟡 29/71 | Messengers, Gaming Tokens | ⭐⭐⭐⭐ |
-| **StormKitty** | C# | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🟡 32/71 | Session Tokens, Files | ⭐⭐⭐ |
 
 </div>
 
