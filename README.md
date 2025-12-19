@@ -54,13 +54,9 @@
 
 ### 📊 UMF Approved RAT Comparison
 
-<div align="center">
-
 | Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Stability | Other Features | Overall |
 |------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|-----------|----------------|---------|
 | **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ✅  | ❌ | ✅  | ❌ | ✅ | ❌ | ✅ | ✅ | 🟢 0/71 | 3/5 | No Other Feature | ⭐⭐⭐⭐ |
-
-</div>
 
 ---
 
