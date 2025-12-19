@@ -7,7 +7,6 @@
 ### *Cross-Language Trust System and Plugin*
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Languages](https://img.shields.io/badge/languages-12+-purple.svg)]()
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
