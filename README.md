@@ -75,39 +75,6 @@
 
 </div>
 
----
-
-### 🔓 UMF Approved Stealer Comparison
-
-<div align="center">
-
-| Name | Language | Browser Data | Discord Tokens | Crypto Wallets | System Info | Screenshot | Keylogger | Injection | File Manager | Webcam | Sound | Remote Shell | Detection Rate | Stability | Other Features | Overall |
-|------|----------|--------------|----------------|----------------|-------------|------------|-----------|-----------|--------------|--------|-------|--------------|----------------|-----------|----------------|---------||
-| **???** | Multi | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🟢 0/71 | 5/5 | Plugin Modules, Extensible, Multi-Lang | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
-### ❌ Banned Stealer List
-
-<div align="center">
-
-| Name | Reason for Ban |
-|------|----------------|
-| **RedLine** | High detection rate, widely detected |
-| **Vidar** | Malicious intent, poor security |
-| **Raccoon** | Outdated methods, high detection |
-| **AZORult** | Legacy code, security issues |
-| **Lumma** | Unstable, detection issues |
-| **Meta Stealer** | Poor implementation |
-| **WhiteSnake** | Malicious obfuscation techniques |
-| **Phemedrone** | Limited features, outdated |
-| **StormKitty** | Basic functionality, high detection |
-
-</div>
-
----
 
 ## 🎓 Educational Use Cases
 
