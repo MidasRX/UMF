@@ -32,11 +32,15 @@
 ---
 ## 📚 Supported Languages
 
+<div align="center">
+
 ### Supported Languague
 🦀 Rust • 💚 C# • ⚡ C/C++ • 🐹 Go • 🐍 Python • 📜 JavaScript
 
 ### Banned Languague (Not In UMC Can try to Apply) 
 🐍 Python •  ☕ Java • 💎 Ruby • 🐘 PHP • 🔷 PowerShell • 🐚 Bash
+
+</div>
 
 ---
 
@@ -50,9 +54,22 @@
 
 ### 📊 UMF Approved RAT Comparison
 
-| Name | Language | Screen Viewer | HVNC | File Manager | Webcam | Sound | Keylogger | Remote Shell | Remote Chat | Injection | Stealer | Detection Rate | Stability | Other Features | Overall |
-|------|----------|---------------|------|--------------|--------|-------|-----------|--------------|-------------|-----------|---------|----------------|-----------|----------------|---------|
-| **Serdium V2** | Multi Rust + C + Assembly | ✅ | ❌ | ✅  | ❌ | ✅  | ❌ | ✅ | ❌ | ✅ | ✅ | 🟢 0/71 | 3/5 | No Other Feature | ⭐⭐⭐⭐ |
+#### **Serdium V2** - Multi Rust + C + Assembly
+
+**Core Features:**
+| Screen Viewer | HVNC | File Manager | Webcam | Sound |
+|---------------|------|--------------|--------|-------|
+| ✅ | ❌ | ✅ | ❌ | ✅ |
+
+**Advanced Features:**
+| Keylogger | Remote Shell | Remote Chat | Injection | Stealer |
+|-----------|--------------|-------------|-----------|---------|
+| ❌ | ✅ | ❌ | ✅ | ✅ |
+
+**Performance & Rating:**
+| Detection Rate | Stability | Other Features | Overall |
+|----------------|-----------|----------------|---------|
+| 🟢 0/71 | 3/5 | No Other Feature | ⭐⭐⭐⭐ |
 
 ---
 
@@ -64,7 +81,9 @@
 |------|----------------|
 | **Nova Shadow** | Not a scam (Temp Banned For Not Paying their staff) |
 
----
+
+</div>
+
 
 ## 🎓 Educational Use Cases
 
@@ -128,6 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐛 Issues: [GitHub Issues](https://github.com/MidasRX)
 
 ---
+
+<div align="center">
 
 ### ⭐ Star us on GitHub!
 
